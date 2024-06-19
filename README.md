@@ -1,4 +1,20 @@
- 🎉 **Hello and welcome to my GitHub profile** :D 🎉
+[PT-BR] 🎉 **Olá e bem-vindo(a) ao meu perfil no GitHub** :D 🎉
+
+Meu nome é _Cassio_, mas você pode me chamar de *@CasntS*, eu não me importo
+
+Eu sou um universitário, e estou cursando análise e desenvolvimento de sistemas
+
+Eu estou aprendendo *Python, HTML, CSS* e um pouco de outras coisas
+
+Eu vou usar o GitHub para organizar meus projetos e códigos, e talvez outras coisas
+
+
+Se você quer entrar em contato comigo, me manda um email: cassiosntslima@gmail.com
+
+Obrigado por olhar meu perfil!
+
+
+[ENG] 🎉 **Hello and welcome to my GitHub profile** :D 🎉
 
 My name is _Cassio_, or just call me *@CasntS*, i don't mind
 
